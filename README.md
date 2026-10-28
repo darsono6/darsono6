@@ -8,7 +8,7 @@ I build **HOTS Tools**: small, focused, free and open-source Windows utilities. 
 |---|---|---|
 | **HOTS Hosts** | Full hosts file editor with parental controls, privacy tweaks, backups and malware diagnostics | [Repo](https://github.com/darsono6/HOTS) · [Website](https://hotstools.com/hosts/) |
 | **HOTS Hosts Lite** | Lighter editor: hosts file lock, custom domain blocklist, profiles, per-app firewall | [Repo](https://github.com/darsono6/HOTS-Hosts-Lite) · [Website](https://hotstools.com/lite/) |
-| **HOTS Uninstaller** | In development | Coming later |
+| **HOTS Uninstaller** | Removes programs together with their leftover files and registry entries, plus startup manager, junk cleanup and install monitor | [Repo](https://github.com/darsono6/HOTS-Uninstaller) · [Website](https://hotstools.com/uninstaller/) |
 
 <img src="https://hotstools.com/assets/screenshot-main.png" alt="HOTS Hosts" width="700">
 
